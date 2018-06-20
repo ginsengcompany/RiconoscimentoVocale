@@ -366,23 +366,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fabrizio\\.nuget\\packages\\": {},
+    "C:\\Users\\AlessioRivoli\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj",
+      "projectUniqueName": "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj",
       "projectName": "RiconoscimentoVocale",
-      "projectPath": "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj",
-      "packagesPath": "C:\\Users\\Fabrizio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\obj\\",
+      "projectPath": "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj",
+      "packagesPath": "C:\\Users\\AlessioRivoli\\.nuget\\packages\\",
+      "outputPath": "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fabrizio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AlessioRivoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

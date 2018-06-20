@@ -770,20 +770,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fabrizio\\.nuget\\packages\\": {}
+    "C:\\Users\\AlessioRivoli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.iOS\\RiconoscimentoVocale.iOS.csproj",
+      "projectUniqueName": "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.iOS\\RiconoscimentoVocale.iOS.csproj",
       "projectName": "RiconoscimentoVocale.iOS",
-      "projectPath": "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.iOS\\RiconoscimentoVocale.iOS.csproj",
-      "packagesPath": "C:\\Users\\Fabrizio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.iOS\\obj\\",
+      "projectPath": "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.iOS\\RiconoscimentoVocale.iOS.csproj",
+      "packagesPath": "C:\\Users\\AlessioRivoli\\.nuget\\packages\\",
+      "outputPath": "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Fabrizio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AlessioRivoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -796,8 +796,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj": {
-              "projectPath": "C:\\Users\\Fabrizio\\source\\repos\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj"
+            "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj": {
+              "projectPath": "D:\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale\\RiconoscimentoVocale.csproj"
             }
           }
         }
