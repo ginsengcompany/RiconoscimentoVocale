@@ -1,0 +1,12 @@
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\bin\Debug\netstandard2.0\RiconoscimentoVocale.deps.json
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\bin\Debug\netstandard2.0\RiconoscimentoVocale.dll
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\RiconoscimentoVocale.csprojAssemblyReference.cache
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\RiconoscimentoVocale.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\RiconoscimentoVocale.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\RiconoscimentoVocale.AssemblyInfo.cs
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\bin\Debug\netstandard2.0\RiconoscimentoVocale.pdb
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\RiconoscimentoVocale.dll
+C:\Users\Fabrizio\source\repos\RiconoscimentoVocale\RiconoscimentoVocale\RiconoscimentoVocale\obj\Debug\netstandard2.0\RiconoscimentoVocale.pdb
